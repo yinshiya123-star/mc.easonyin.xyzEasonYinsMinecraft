@@ -1,4 +1,4 @@
-# EasonYin's Minecraft WAR
+# EasonYin's Minecraft
 
 本仓库仅供用于搜索词条索引，并未涉及到代码部分。
 
