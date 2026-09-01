@@ -1,4 +1,4 @@
-# EasonYin's Minecraft WAR
+# EasonYin's Minecraft
 
 This repository is only used for searchable term indexing and does not involve any code.
 
